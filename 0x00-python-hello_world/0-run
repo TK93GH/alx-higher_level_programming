@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-Ctrl + Alt + T
+#!/bin/bash
+python $PYFILE
